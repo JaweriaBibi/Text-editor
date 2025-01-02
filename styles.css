@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffd700; /* Gold color for the title */
+    margin-bottom: 20px;
+}
+
+#output {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    min-height: 50px;
+}
+
+#text-input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    width: 100%;
+    max-width: 400px;
+}
