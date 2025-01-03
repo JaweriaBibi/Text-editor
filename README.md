@@ -42,13 +42,6 @@ project-folder
 - **Beginner-Friendly**: A great starting project for learning web development.
 - **Customizable**: Easily tweak styles and functionality to make it your own.
 - **Showcase Your Skills**: Perfect for portfolios or demonstrations.
-
----
-
-## 📸 Demo
-
-![Text Editor Demo](https://via.placeholder.com/600x400)
-
 ---
 
 ## 🛠️ Setup Instructions
